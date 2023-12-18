@@ -36,7 +36,7 @@
     <a href="https://github.com/public-apis/public-apis/issues">Issues</a> •
     <a href="https://github.com/public-apis/public-apis/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
-    
+</div>
 
 <br />
 
