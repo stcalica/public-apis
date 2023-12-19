@@ -74,6 +74,8 @@
             <div>
                 <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
             </div>
+            <div><sup> Give APILayers a try on the Postman Public Newtwork</sup></div>
+            <img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">
         </a>
         <a href="https://apilayer.com#gh-dark-mode-only">
             <div>
@@ -84,6 +86,18 @@
             </div>
             <div>
                 <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
+                </div>
+        </a>
+        <a href="https://postman.com">
+            <div>
+                <img src="https://voyager.postman.com/logo/postman-logo-orange.svg" alt="postman public api network" width="250" /> 
+            </div>
+            <div>
+                <p><strong> Join over 25 million developers on Postman.
+                </strong></p>
+            </div>
+            <div>
+                <sup>Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.  </sup>
             </div>
         </a>
     </p>
@@ -93,11 +107,10 @@
 
 ---
 
-#### Postman Collections 
+## Postman Collections 
 
-Postman has partnered with APILayer to create a Public Workspace in the Postman API Network showcasing APIs from this list. Postman is a collaboration platform for API development and empowers developers to create, share, and test APIs seamlessly, accelerating the development process and promoting innovation in the API landscape. This index shows which APIs are on the Public API Network and can be "forked" into your own personal workspace to play with these APIs as quickly as possible.
+Postman has partnered with APILayer to create a Public Workspace in the Postman API Network showcasing APIs from this list. This index shows which APIs are on the Public API Network and can be "forked" into your own personal workspace to play with these APIs as quickly as possible.
 
-<details><summary>Open for Run In Postman Options</summary>
 <div align="center">
 
 |API|Description | RUN IN POSTMAN|
@@ -106,8 +119,6 @@ Postman has partnered with APILayer to create a Public Workspace in the Postman 
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e%26entityType%3Dcollection%26workspaceId%3D67bb7371-b898-48d6-b4ba-19a622f3f5c2) |
 
 </div>
-
-</details>
 
 <br />
 
