@@ -77,8 +77,8 @@
             <br />
             <div><sup> Give APILayers a try on the Postman Public Newtwork</sup></div>
             <img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">
+            <br />
         </a>
-        <br />
         <a href="https://apilayer.com#gh-dark-mode-only">
             <div>
                 <img src="https://raw.githubusercontent.com/public-apis/public-apis/master/.github/assets/sponsors_logo/m3o_logo_white.png" width="250" alt="APILayer Logo" />
