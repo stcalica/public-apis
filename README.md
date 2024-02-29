@@ -109,8 +109,7 @@
 
 ---
 Let's test the links here 
-[Contributing](https://github.com/stcalica/public-apis/blob/master/CONTRIBUTING.md)
-[Contributing](/CONTRIBUTING.md)
+
 [Contributing](CONTRIBUTING.md)
 ---
 
